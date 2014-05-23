@@ -129,6 +129,8 @@ module Omnibus
       /libcurses.so.1/,
       /libssl.so.1.0.0/,
       /libthread.so.1/,
+      /libgmp.so.10/,
+      /libssp.so.0/,
     ]
 
     MAC_WHITELIST_LIBS = [
